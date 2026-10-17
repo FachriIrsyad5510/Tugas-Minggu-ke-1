@@ -1,0 +1,37 @@
+#print() = menampilkan sesuatu dilayar  
+#(" " / ' ') = menampilkan sesuatu dilayar dengan tanda kutip
+#int = menampilkan bilangan bulat
+#float = menampilkan bilangan desimal
+#str = menampilkan teks 
+#bool = menampilkan bilangan boolean
+#and = kedua kondisi benar
+#or = salah satu kondisi benar
+#not = kebalikan kondisi
+#f-string = menampilkan teks dengan variabel
+
+#OPERATOR MATEMATIKA
+# + = penjumlahan   
+# - = pengurangan   
+# * = perkalian
+# / = pembagian
+# % = sisa bagi
+#** = pangkat
+# // = pembagian bulat
+
+#OPERATOR PERBANDINGAN
+# == = sama dengan  
+# != = tidak sama dengan 
+# > = lebih besar dari  
+# < = lebih kecil dari  
+# >= = lebih besar atau sama dengan 
+# <= = lebih kecil atau sama dengan 
+
+print(ipk >= 3.5 and ipk <= 4.0) #True
+
+#PERCABANGAN (if-elif-else)
+if ipk >= 3.5:
+    print("Anda lulus dengan IPK tinggi")
+elif ipk >= 3.0:
+    print("Anda lulus dengan IPK sedang")
+else:
+    print("Anda belum lulus")
