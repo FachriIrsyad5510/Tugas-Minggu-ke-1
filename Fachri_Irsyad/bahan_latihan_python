@@ -26,12 +26,6 @@
 # >= = lebih besar atau sama dengan 
 # <= = lebih kecil atau sama dengan 
 
-print(ipk >= 3.5 and ipk <= 4.0) #True
-
-#PERCABANGAN (if-elif-else)
-if ipk >= 3.5:
-    print("Anda lulus dengan IPK tinggi")
-elif ipk >= 3.0:
-    print("Anda lulus dengan IPK sedang")
-else:
-    print("Anda belum lulus")
+#PERCABANGAN
+# if = 
+#
