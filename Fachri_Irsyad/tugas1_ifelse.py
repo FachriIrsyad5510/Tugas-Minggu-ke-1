@@ -19,6 +19,6 @@ elif nilai >= 65:
 
 else:
     print("Nilai Anda adalah E")
-    print("Anda tidak lulus, silakan coba lagi tahun depan. Bodoh Sekali Anda.")
+    print("Anda tidak lulus, silakan coba lagi tahun depan. Bodoh Sekali Anda!.")
 
 
