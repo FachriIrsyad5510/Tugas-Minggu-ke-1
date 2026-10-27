@@ -24,6 +24,7 @@ if operator == "+":
 elif operator == "-":
     hasil = angka1 - angka2
     print(f"Hasil: {angka1} - {angka2} = {hasil:.2f}")
+
 elif operator == "*":
     hasil = angka1 * angka2
     print(f"Hasil: {angka1} x {angka2} = {hasil:.2f}")
@@ -40,4 +41,4 @@ else:
     print("Gunakan salah satu dari: + - * /")
 
 print("===================================")
-print("Terima kasih telah menggunakan kalkulator ini.")
+print("Terima kasih telah menggunakan kalkulator ini")
